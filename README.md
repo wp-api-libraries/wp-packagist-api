@@ -9,10 +9,9 @@ A WordPress library for [Packagist API](https://packagist.org/apidoc)
 
 ## Example Usage
 
+#### Get All Packages
 ```php
-
 $packagist = new PackagistAPI();
 
 $results = $packagist->get_all_packages();
-
 ```
