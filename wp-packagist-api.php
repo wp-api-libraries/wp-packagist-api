@@ -6,7 +6,7 @@
  */
 
 /*
-Plugin Name: WP Enerscore API
+Plugin Name: WP Packagist API
 Plugin URI: https://github.com/wp-api-libraries/wp-packagist-api
 Description: Perform API requests to packagist in WordPress.
 Author: WP API Libraries
